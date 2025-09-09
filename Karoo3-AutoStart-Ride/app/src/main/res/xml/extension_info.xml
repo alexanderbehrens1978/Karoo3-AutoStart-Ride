@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  id="autostartride"
+  displayName="@string/app_name"
+  icon="@mipmap/ic_launcher"
+  scansDevices="false"
+  mapLayer="false"
+  fitFile="false"/>

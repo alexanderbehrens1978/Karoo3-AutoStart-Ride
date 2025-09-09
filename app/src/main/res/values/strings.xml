@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">AutoStart Ride</string>
+  <string name="notif_channel_name">AutoStart Ride</string>
+  <string name="notif_title">AutoStart aktiv</string>
+  <string name="notif_text">Ride-Aufzeichnung wird automatisch gestartet</string>
+  <string name="settings_title">Einstellungen</string>
+  <string name="settings_autostart">Autostart aktiv</string>
+  <string name="settings_resume_on_pause">Bei Pause automatisch fortsetzen</string>
+  <string name="settings_delay_hint">Start-Delay (ms)</string>
+  <string name="save">Speichern</string>
+  <string name="saved">Gespeichert</string>
+  <string name="support_email">axellander@googlemail.com</string>
+  <string name="support_subject">AutoStart Ride – Support/Feedback</string>
+  <string name="support_button">Support / Feedback</string>
+  <string name="support_no_mail_client">Kein Mail-Client gefunden. Adresse in Zwischenablage kopiert.</string>
+</resources>

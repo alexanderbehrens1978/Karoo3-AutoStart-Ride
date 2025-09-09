@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">AutoStart Ride</string>
+  <string name="notif_channel_name">AutoStart Ride</string>
+  <string name="notif_title">AutoStart aktiv</string>
+  <string name="notif_text">Ride-Aufzeichnung wird automatisch gestartet</string>
+  <string name="settings_title">Einstellungen</string>
+  <string name="settings_autostart">Autostart aktiv</string>
+  <string name="settings_resume_on_pause">Bei Pause automatisch fortsetzen</string>
+  <string name="settings_delay_hint">Start-Delay (ms)</string>
+  <string name="save">Speichern</string>
+  <string name="saved">Gespeichert</string>
+</resources>
